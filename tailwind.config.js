@@ -13,7 +13,7 @@ module.exports = {
         'content-body': '#CDCBCC',
         'content-placeholder': '#827D7F',
         'content-headline': '#B2B2B2',
-        'boder-primary': '#19191A',
+        'border-primary': '#19191A',
         'border-secondary': '#323234',
         'border-tertiary': '#97979B',
         'accent-purple': '#4B2DBB',
